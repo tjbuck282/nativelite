@@ -1,7 +1,7 @@
 // This changes the title of your site
 
-var sitename = "Deki-Chans Games."; // Change this to change the name of your website.
-var subtext = "v1.2"; // set the subtext
+var sitename = "Ghostly V2 Games"; // Change this to change the name of your website.
+var subtext = "Why are you reading this."; // set the subtext
 
 // more settings in main.css
 
